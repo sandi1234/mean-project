@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MANGO_ATLAS_PW": "L7fDoJz1xOD8pApB",
+        "JWT_KEY": "secret_this_should_be_longer"
+    }
+}
